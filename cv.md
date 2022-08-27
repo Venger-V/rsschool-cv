@@ -28,3 +28,7 @@ Not yet...
 ## Education:
 1. CSS, HTML video courses on YouTube
 2. freeCodeCamp Responsive Web Design
+
+## Language:
+* Ukrainian
+* English level - A1
