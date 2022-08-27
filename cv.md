@@ -12,7 +12,7 @@
 ## About me:
 I want to become a front-and developer.
 
-Code example:
+## Code example:
 ```
 const func = (num) => {
   if (num > 0) {
@@ -21,3 +21,10 @@ const func = (num) => {
   return num + 1;
 };
 ```
+
+## Work experience:
+Not yet...
+
+## Education:
+1. CSS, HTML video courses on YouTube
+2. freeCodeCamp Responsive Web Design
