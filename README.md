@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://Venger-V.github.io/rsschool-cv/
