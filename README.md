@@ -1,1 +1,1 @@
-# https://github.com/Venger-V/rsschool-cv/blob/gh-pages/cv.md#about-me
+# https://github.com/Venger-V/rsschool-cv/tree/rsschool-cv-html
