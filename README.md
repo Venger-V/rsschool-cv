@@ -1,1 +1,1 @@
-# https://github.com/Venger-V/rsschool-cv/tree/rsschool-cv-html
+# https://Venger-V.github.io/rsschool-cv/
